@@ -31,7 +31,6 @@
                     <br>
        <a target="_blank" href="https://github.com/Guimonteirol"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
                 </p>
-                
                 <p>José Vinícius
                     <br>
     <a target="_blank" href="https://github.com/josevinicius-ti"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a> 
