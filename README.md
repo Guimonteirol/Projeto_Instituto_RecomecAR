@@ -29,24 +29,23 @@
    <div class="autoria">
                 <p>Guilherme Monteiro
                     <br>
-                    <a target="_blank" href="https://github.com/Guimonteirol"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
+       <a target="_blank" href="https://github.com/Guimonteirol"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
                 </p>
                 
                 <p>José Vinícius
                     <br>
-                    <a target="_blank" href="https://github.com/josevinicius-ti"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a> 
+    <a target="_blank" href="https://github.com/josevinicius-ti"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a> 
                 </p>
                 <p>Ludmilla Khatarina
                     <br>
-                    <a target="_blank" href="https://github.com/ludyklima"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
+    <a target="_blank" href="https://github.com/ludyklima"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
                 </p>
                 <p>Samuel Dias
                     <br>
-                    <a target="_blank" href="https://github.com/smdbtib"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
+     <a target="_blank" href="https://github.com/smdbtib"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
                 </p>
                 <p>Valéria do Valle
-                    <br>
-                    <a target="_blank" href="https://github.com/valleriabueno"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
+    <a target="_blank" href="https://github.com/valleriabueno"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
                 </p>
                 
             </div>
