@@ -27,7 +27,7 @@
    
    <h3> Desenvolvedores: </h3>
    <div style= "display: flex; justify-content: center; align-items: center">
-                <p>Guilherme Monteiro
+                <p align="center">Guilherme Monteiro
                     <br>
        <a target="_blank" href="https://github.com/Guimonteirol"><img src="https://img.shields.io/badge/GitHube-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""></a>
                 </p>
