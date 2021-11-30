@@ -20,7 +20,7 @@
     </ul>
      <p><b>RF [02]</b>  - Deve conter um rodapé com informações de contato e autoria.</p>
      <p><b>RF [03]</b>  - A listagem de projetos deve ser feita utilizando grid ou flexbox.</p>
-      <p<b>>RF [04]</b>  - Todas as páginas devem respeitar a semântica do HTML5 (uso adequado de blocos).</p>
+     <p<b>RF [04]</b>  - Todas as páginas devem respeitar a semântica do HTML5 (uso adequado de blocos).</p>
      <p><b>RF [05]</b>  - Todo o site deve ser responsivo.</p>
   
   
