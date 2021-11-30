@@ -1,0 +1,303 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+    background-image: url(../img/fundo-teste.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 40px;
+    font-size: 2.5rem;
+    line-height: 48px;
+    line-height: 3rem;
+}
+
+/*NAVBAR*/
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%; 
+    height: 90px;
+    margin-bottom: 40px;
+    background-color: #22577aff;
+}
+
+nav:hover{
+    background-color: rgb(46, 104, 170);
+}
+
+img.logo {
+    margin-left: 40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+nav a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+#sobre_logo{
+    border: none;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    padding: 10px;
+    list-style: none;
+    color: white;
+  
+}
+
+/*FIM DA NAVBAR*/
+
+section.onde-estamos img{
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+section.onde-estamos{
+    margin: 0 auto;
+    text-align: center;
+}
+
+main {
+    width: 960px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius:12px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.divisao {
+    width: 100px;
+    height: 3px;
+    background-color: #22577aff;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.missao-visao-valores h3{
+    text-align: center;
+    margin-top: 25px;
+    color: #22577aff;
+}
+
+
+.quem-somos, .onde-estamos, .missao-visao-valores {
+    padding: 20px;
+}
+
+img {
+    position: center;
+}
+
+@media screen and (max-width:800px){
+
+    main{
+        width: 360px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    section.container{
+        width: 360px;
+        background-color: white;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    
+    header ul{
+        display: none;
+    }
+
+    nav{
+        display: flex;
+        width: 100%; 
+        height: 200px;
+        background-color: #22577aff;
+    }
+    
+    img.logo{
+        width: 150px;
+        position: relative;
+    }
+
+    .logo {
+        margin-left: 0px;
+    }
+    
+    nav a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        flex-wrap: wrap;
+    }
+    
+    nav li {
+        padding: 0px;
+        list-style: none;
+        color: white;
+        margin-bottom: 10px;
+    }
+}
+
+/*BOTÕES*/
+.topo{
+    right: 0;
+    margin: 0px;
+}
+
+.como_ajudar,.topo{
+    position: fixed;
+    bottom: 0;
+    margin: 15px;
+}
+
+.como_ajudar a{
+    background-color:rgb(223, 190, 6);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+/**/
+
+/*FOTER*/
+
+footer{
+    background-color: #22577aff;  
+    margin-top: 70px;
+}
+
+.footer_flex {
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    flex-direction: row;
+    background-color: #22577aff;
+}
+
+footer p {
+    font-size: 15px;
+    color: white;
+    margin: 10px;
+    justify-content: center;
+    padding: 5px;
+    width: 70%;
+}
+
+
+.social-medias {
+    /* position: relative; */
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+    
+}
+
+footer .social-medias {
+    width: 30%;
+    height: 130px;
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+footer img {
+    margin-left: 15px;
+}
+
+footer .autoria{
+    text-align: center;
+    display: flex;
+}
+
+.autoria img{
+    width: 20px;
+    margin-top: 5px;
+}
+
+hr{
+    margin-bottom: 10px;
+    color: white;
+}
+ 
+
+/*FIM RODAPÉ */
+@media screen and (max-width:800px) {
+    footer .social-medias  {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    footer .autoria{
+        text-align: center;
+        display: flex;
+    }
+
+    .autoria img{
+        width: 20px;
+        margin-top: 5px;
+    }
+
+/*BOTÕES*/
+.topo{
+    right: 0;
+    margin: 0px;
+}
+
+.como_ajudar,.topo{
+    position: fixed;
+    margin: 15px;
+    margin-bottom: 300px;
+}
+
+.como_ajudar a{
+    background-color:rgb(223, 190, 6);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+/*FIM BOTAO*/
+
+hr{
+    margin-bottom: 10px;
+}
+    
+}
