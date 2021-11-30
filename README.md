@@ -11,15 +11,16 @@
   <hr>
   
   <h3>Requisitos funcionais:</h3>
-    <ul>
+    
       <p>RF [01] - Deve conter uma landing page como página inicial, mostrando uma visão geral da empresa/ONG/pessoa. E links para acessar as seguintes páginas:</p>
-  <li> Serviços/Currículo (caso seja uma pessoa)</li>
-  <li>Projetos</li>
-  <li>Sobre mim (página contendo informações mais específicas)</li>
+      <ul>
+     <li> Serviços/Currículo (caso seja uma pessoa)</li>
+     <li>Projetos</li>
+     <li>Sobre mim (página contendo informações mais específicas)</li>
     <ul>
-      <p>RF [02] - Deve conter um rodapé com informações de contato e autoria.</p>
-      <p>RF [03] - A listagem de projetos deve ser feita utilizando grid ou flexbox.</p>
-       <p>RF [04] - Todas as páginas devem respeitar a semântica do HTML5 (uso adequado de blocos).</p>
-      <p>RF [05] - Todo o site deve ser responsivo.</p>
+     <p>RF [02] - Deve conter um rodapé com informações de contato e autoria.</p>
+     <p>RF [03] - A listagem de projetos deve ser feita utilizando grid ou flexbox.</p>
+      <p>RF [04] - Todas as páginas devem respeitar a semântica do HTML5 (uso adequado de blocos).</p>
+     <p>RF [05] - Todo o site deve ser responsivo.</p>
   
   
