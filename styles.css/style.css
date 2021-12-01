@@ -128,11 +128,11 @@ nav li {
 
 /*FIM DA NAVBAR*/
 
+/*MAIN*/
+
 .container {
     display: flex;
 }
-
-/*MAIN*/
 
 .container div  {
     flex-wrap: wrap;
